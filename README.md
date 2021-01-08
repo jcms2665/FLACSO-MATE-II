@@ -1,28 +1,3 @@
-# Matemáticas II
-
-*Segunto cuatrimestre 2021*
-
-Julio César Martínez Sánchez
-
-</p>
-</p>
-</p>
-
-**Informacion general**
-
-Sesiones: Lunes, miércoles 9:00-10:00 h.
-
-Classroom: a4nq765
-
-Email: julio.martinez@flacso.edu.mx o jcms2665@gmail.com
-
-</p>
-</p>
-</p>
-
-
-**Objetivos** 
-
-La asignatura de Matemáticas II pretende que las y los alumnos conozca los conceptos matemáticos que les permitan desarrollar investigaciones empíricas en el campo de la demografía y los estudios de población.
+![](https://user-images.githubusercontent.com/13545121/103961419-1055f380-511a-11eb-9043-99bbee8f9edc.PNG)
 
 
