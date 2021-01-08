@@ -5,7 +5,7 @@
 Julio César Martínez Sánchez
 
 
-## Informacion general
+**Informacion general**
 
 Sesiones: Lunes, miércoles 9:00-10:00 h.
 
@@ -15,7 +15,7 @@ Email: julio.martinez@flacso.edu.mx o jcms2665@gmail.com
 
 
 
-## Objetivos 
+**Objetivos** 
 
 La asignatura de Matemáticas II pretende que las y los alumnos conozca los conceptos matemáticos que les permitan desarrollar investigaciones empíricas en el campo de la demografía y los estudios de población.
 
