@@ -4,7 +4,6 @@
 
 Julio César Martínez Sánchez
 
----
 
 ## Informacion general
 
@@ -14,7 +13,7 @@ Classroom: a4nq765
 
 Email: julio.martinez@flacso.edu.mx o jcms2665@gmail.com
 
----
+
 
 ## Objetivos 
 
