@@ -106,5 +106,11 @@ rm(list=ls())
 # 9.5 Multiplica la matriz anterior por 0.8
 
 
+# 9.6 En la primer matriz, reemplaza el valor cero por 8990 
+
+
+
+# 9.7 En la segunda matriz, reemplaza el valor 1 por 0.365 
+
 
 
