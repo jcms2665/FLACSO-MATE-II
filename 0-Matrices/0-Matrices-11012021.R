@@ -113,4 +113,33 @@ rm(list=ls())
 # 9.7 En la segunda matriz, reemplaza el valor 1 por 0.365 
 
 
+# 10. Subconjuntos de datos
+
+# :
+m<-matrix(c(1,2,3,4,1,2,3,4,1,2,3,4), nrow = 4, ncol = 3)
+
+# :
+sub1<-m[1:2 , ]
+
+# :
+sub2<-m[3:4 , ]
+
+# :
+sub1.t<-t(sub1)
+
+multiplicacion<-sub1.t%*%sub2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
